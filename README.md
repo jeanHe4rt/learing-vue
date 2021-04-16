@@ -2,7 +2,7 @@
 
 ## Aprendendo a progamar em vue
 
-#Conceito de Single-file-components
+# Conceito de Single-file-components
 
 <template>
   <h1> Helllo World</h1>
